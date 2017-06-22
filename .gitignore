@@ -8,3 +8,6 @@ Setup.hs
 app/
 IO Files/
 test/
+
+# VSCode files #
+.vscode
